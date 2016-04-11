@@ -1,0 +1,6 @@
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\bin\Debug\Declare Variables.exe.config
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\bin\Debug\Declare Variables.exe
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\bin\Debug\Declare Variables.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\obj\Debug\Declare Variables.csprojResolveAssemblyReference.cache
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\obj\Debug\Declare Variables.exe
+E:\C# Homework\Homework\DataTypesAndVariables\Declare Variables\obj\Debug\Declare Variables.pdb

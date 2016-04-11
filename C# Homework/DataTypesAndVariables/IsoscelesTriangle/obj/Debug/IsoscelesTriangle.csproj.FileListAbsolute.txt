@@ -1,0 +1,5 @@
+E:\C# Homework\Homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+E:\C# Homework\Homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+E:\C# Homework\Homework\DataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+E:\C# Homework\Homework\DataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

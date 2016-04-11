@@ -1,0 +1,5 @@
+E:\C# Homework\Homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+E:\C# Homework\Homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+E:\C# Homework\Homework\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+E:\C# Homework\Homework\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

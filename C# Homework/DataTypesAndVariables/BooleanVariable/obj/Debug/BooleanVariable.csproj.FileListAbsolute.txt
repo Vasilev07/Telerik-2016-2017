@@ -1,0 +1,6 @@
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\C# Homework\Homework\DataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

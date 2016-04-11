@@ -1,0 +1,6 @@
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.exe.config
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.exe
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\obj\Debug\StringAndObject.exe
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\obj\Debug\StringAndObject.pdb
+E:\C# Homework\Homework\DataTypesAndVariables\StringAndObject\obj\Debug\StringAndObject.csprojResolveAssemblyReference.cache
