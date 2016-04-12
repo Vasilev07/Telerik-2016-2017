@@ -3,3 +3,9 @@ E:\C# Homework\Homework\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\E
 E:\C# Homework\Homework\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
 E:\C# Homework\Homework\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
 E:\C# Homework\Homework\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Telerik 2016-2017\C# Homework\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
