@@ -7,8 +7,24 @@ namespace ThirdDigit
     {
         static void Main()
         {
-            int N = int.Parse(Console.ReadLine());
-            Math.av
+            string N = Console.ReadLine();
+            int stringLenght = N.Length;
+            int position = stringLenght - 3;
+            if (stringLenght < 3)
+            {
+                Console.WriteLine("false 0");
+            }
+            else
+                
+            if (N[position] == '7')
+            {
+                Console.WriteLine("true");
+            }
+            else
+            {
+                Console.WriteLine("false " + N[position]);
+            }
+
         }
     }
 }
