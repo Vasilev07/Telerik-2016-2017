@@ -1,0 +1,39 @@
+body {
+    background-color: #595959;
+    margin: 0;
+    padding: 0;
+}
+.leftSection {
+    font-style: italic;
+    color: #d0d6d8;
+}
+.ticketID {
+    font-size: 16px;
+    color: #a5a2a2;
+}
+.rightCol {
+    color: #a5a2a2;
+}
+li {
+    list-style-type: none;
+}
+.redText {
+    color: red;
+}
+.orangeText {
+    color: #eaa212;
+}
+.yellowText {
+    color: #EEE8AA;
+}
+
+#circle {
+	width: 10px;
+	height: 10px;
+	background: green;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  float: left;
+  margin: 3%;
+}
