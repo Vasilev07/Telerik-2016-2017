@@ -1,0 +1,28 @@
+table, th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+    border-collapse: collapse;
+}
+th {
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #4CAF50;
+    font-weight: bold;
+}
+table {
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+.differentBackground {
+    background-color: #f2f0d2;
+}
+
+img {
+  height: 10px;
+  width: 20px;
+}
