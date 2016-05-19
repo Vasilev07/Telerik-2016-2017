@@ -1,0 +1,16 @@
+ul.hiden {
+    display: none;
+    color: grey;
+}
+li.hovered:hover .hiden {
+    display: block;
+}
+li {
+    list-style-type: none;
+}
+li.hovered:hover {
+  text-decoration: underline;
+}
+.noDecoration {
+  text-decoration: none;
+}
