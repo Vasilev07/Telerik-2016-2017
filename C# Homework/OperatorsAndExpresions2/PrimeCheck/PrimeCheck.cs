@@ -1,0 +1,43 @@
+﻿
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _08.PrimeNumberCheck
+{
+    class PrimeNumberCheck
+    {
+        static void Main(string[] args)
+        {
+            //Write an expression that checks if given positive integer number n (n ≤ 100) is prime (i.e. it is divisible without remainder only to itself and 1). 
+
+            
+            uint num = uint.Parse(Console.ReadLine());
+            if (num <= 1)
+            {
+                Console.WriteLine("false");
+            }
+            else if (num > 1 && num <= 100) // Checks numbers in interval
+            {
+                if (num == 2 || num == 3 || num == 5 || num == 7) // Checks numbers 2, 3, 5, 7
+                {
+                    Console.WriteLine("true");
+                }
+                else
+                {
+                    if (num % 2 != 0 && num % 3 != 0 && num % 5 != 0 && num % 7 != 0) // Checks division with reminder
+                    {
+                        Console.WriteLine("true");
+                    }
+                    else
+                    {
+                        Console.WriteLine("false");
+                    }
+                }
+            }
+           
+        }
+    }
+}
